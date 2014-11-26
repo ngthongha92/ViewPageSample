@@ -1,43 +1,23 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+#Android generated
+bin
+gen
 
-# Folder config file
-Desktop.ini
+#Eclipse
+.project
+.classpath
+.settings
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+#IntelliJ IDEA
+.idea
+*.iml
+classes
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+#Maven
+target
+release.properties
+pom.xml.*
 
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must end with two \r
-Icon
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+#Command line
+local.properties
+build.xml
+proguard-project.txt
